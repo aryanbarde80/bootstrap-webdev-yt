@@ -1,15 +1,15 @@
-# 🌐 Modern Business Website 
+### 🌐 Modern Business Website 
 
 ## 📝 Description
 This repository contains the source code for a modern, responsive business website built using HTML, CSS, and Bootstrap. The website is designed to be visually appealing, user-friendly, and adaptable to various screen sizes.
 
-## Features
+## ✨ Features
 - **Responsive Design:** The website is fully responsive and adjusts seamlessly across different devices and screen sizes.
 - **Clean and Modern Layout:** Uses a clean and modern layout to present content effectively.
 - **Bootstrap Components:** Utilizes Bootstrap components such as navigation bars, cards, buttons, and modals for a consistent and polished look.
 - **Custom CSS:** Includes custom CSS for unique styling beyond Bootstrap’s default themes.
 
-## Pages
+## 📄 Pages
 1. **Home Page:**
    - Hero section with a background image and a call-to-action button.
    - Features section with icons and descriptions.
