@@ -51,7 +51,7 @@ To set up the project locally, follow these steps:
 - Modify the CSS files in the css directory for styling changes.
 - Use Bootstrap's documentation for adding or customizing components.
   
-## Contributing
+## 🤝 Contributing
 - Contributions are welcome! Please follow these steps to contribute:
 
 ## Fork the repository.
@@ -60,5 +60,5 @@ To set up the project locally, follow these steps:
 3. Push to the branch (git push origin feature/YourFeature).
 4. Open a Pull Request.
 
-## License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
